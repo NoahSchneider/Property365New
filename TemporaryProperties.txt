@@ -1,0 +1,5 @@
+23#1st Street#Aldara Park#1#1#560000#1
+12#Cosmos Avenue#Aldara Park#2#1970000#2
+23#Swanepoel Avenue#Aldara Park#3#21300000#3
+7#Brentford Road#Aldara Park#4#1#1970000#4
+65#Garrick Road#Aldara Park#5#1#4500000#5

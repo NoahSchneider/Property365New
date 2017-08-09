@@ -1,0 +1,150 @@
+23#1st Street#Aldara Park#1#1#560000#1
+12#Cosmos Avenue#Aldara Park#2#1970000#2
+23#Swanepoel Avenue#Aldara Park#3#21300000#3
+7#Brentford Road#Aldara Park#4#1#1970000#4
+65#Garrick Road#Aldara Park#5#1#4500000#5
+3#Woodley Avenue#Aldara Park#6#3#3400000#6
+7#Caroline Avenue#Aldara Park#7#42490000#7
+23 Edgeworth Lane Aldara Park#8#3#345000#8
+18#Colinton Road#Blairgowrie#7#2#3560000#9
+2#Coborn Road#Blairgowrie#6#3#6700000#10
+49#Belvicar Road#Blairgowrie#5#3#5600000#11
+3#Pentlands Road#Blairgowrie#4#2#450000#12
+105#Standard Drive#Blairgowrie#3#1#1130000#13
+98#Barkston Drive#Blairgowrie#3#1#670000#14
+208#Barkston Drive#Blairgowrie#2#2#3450000#15
+5#Valley Road#Bordeaux#1#1#1750000#16
+16#Orchard Avenue#Bordeaux#2#1#2345000#17
+45#Paris Avenue#Bordeaux#3#2#1560000#18
+4#Adele Road#Bordeaux#4#2#3490000#19
+76#Maxwell Avenue#Bordeaux#5#2#765000#20
+5#Ryder Avenue#Bordeaux#6#1#4567890#21
+49#Jean Avenue#Bordeaux#7#2#5600000#22
+34#Janet Avenue#Bordeaux#8#3#200000#23
+3#Darley Avenue#Boskruin#7#4#3400000#24
+8#Kelley Avenue#Boskruin#6#3#2900000#25
+56#Nimmerstat Avenue#Boskruin#5#2#1900000#26
+29#Swazi Road#Boskruin#4#1#14000000#27
+21#Panther Road#Boskruin#3#1#4569870#28
+67#Kolgans Street#Boskruin#2#1#1234567#29
+98#Houtkapper Avenue#Boskruin#1#2#876900#30
+2#Sylvan Road#Boskruin#2#2#2300000#1
+4#Hawkin Avenue#Bromhof#3#2#589000#2
+26#Tin Road Bromhof#4#2#124765#3
+43#Spoonbill Street#Bromhof#5#3#234000#4
+7#Dwars Street#Bromhof#6#4#568900#5
+56#Parrot Road#Bromhof#7#4#400000#6
+36#Crow Road#Bromhof#8#5#5000000#7
+9#Ostrich Street#Bromhof#7#3#6000000#8
+5#Nagtegaal Lane#Bromhof#6#3#7000000#9
+72#Judges Avenue#Cresta#5#2#3000000#10
+45#Gillard Drive#Cresta#4#3#2500000#11
+51#Minerva Road#Cresta#3#1#1200000#12
+38#Siebolds Avenue#Cresta#2#2#2300000#13
+234#Bernhards Street#Cresta#1#2#1500000#14
+64#Acacia Street#Cresta#2#2#650000#15
+38#Ross Road#Darrenwood#3#2#987000#16
+84#Edgeworth Crescent#Darrenwood#4#3#1100000#17 
+45#Cheyne Street#Darrenwood#5#3#2300000#18  
+23#Blaine Road#Darrenwood#6#4#1800000#19
+58#Durham Road#Darrenwood#7#4#430000#20  
+34#Elza Road#Darrenwood#8#4#900000#21
+45#Albito Street#Darrenwood#7#4#1200000#22
+14#Lee Road#Darrenwood#6#3#5000000#23
+65#Sophia#Street#Fairlands#5#3#670000#24
+29#Casper Road#Fairlands#4#2#790000#25
+34#Smit Lane#Fairlands#3#2#1400000#26 
+18#Market Street#Fairlands#2#1#3500000#27  
+23#Woolson Road#Fairlands#1#2#4300000#28
+19#Helvey Road#Fairlands#2#2#2300000#29
+34#Albert Road#Fairlands#3#1#7100000#30
+12#Tennis Road#Fairlands#4#2#890000#1
+34#York Avenue#Ferndale#5#2#1000000#2
+2#Vale Avenue#Ferndale#6#1#2000000#3
+34#West Road#Ferndale#7#3#3000000#4
+8#Eton Road#Ferndale#8#5#5000000#5
+35#Cheese Street#Ferndale#6#2#3400000#6
+21#Langsholm Avenue#Ferndale#2#1#1500000#7  
+13#Bird Road#Ferndale#3#1#3000100#8  
+1#Goose Road#Ferndale#5#3#2300000#9
+10#School Street#Jukskei Park#7#4#2400000#10
+56#Market Street#Jukskei Park#8#3#1200000#11
+101#Rolvery Road#Jukskei Park#1#1#7800000#12  
+34#Verity Road#Jukskei Park#1#1#800000#13
+5#Jameston Street#Jukskei Park#2#1#1234567#14 
+67#Jude Road#Jukskei Park#3#1#9876543#15 
+34#Regal Street#Jukskei Park#4#2#500000#16 
+45#Kook Street#Jukskei Park#5#2#2700000#17
+26#Grey Street#Kensington 'B'#6#4#400000#18
+71#North Avenue#Kensington 'B'#7#3#6790000#19 
+51#Adderly Road#Kensington 'B'#8#5#3100000#20  
+40#Milner Road#Kensington 'B'#6#2#2600000#21 
+4#Victoria Street#Kensington 'B'#5#3#1700000#22 
+2#Willma Road#Kensington 'B'#4#1#5000000#22 
+19#Halor Avenue#Kensington 'B'#3#1#1200000#23 
+3#Spedila Road#Kensington 'B'#2#2#760000#24
+23#Craig Avenue#Malanshof#1#1#500000#25
+28#Wanda Street#Malanshof#2#2#4100000#26
+67#Quail Avenue#Malanshof#3#2#7000000#27
+5#Food Road#Malanshof#4#2#8000000#28
+95#Lekker Street#Malanshof#5#3#4000000#29
+56#Jakkels Avenue#Malanshof#6#4#5000000#30
+30#Tudor Road#Malanshof#7#5#1000000#30
+34#Robin Street#Malanshof#8#3#2000000#1
+41#Derby Drive#Northriding#7#4000000#2 
+52#Blandford Road#Northriding#6#3#9000000#3 
+29#5th Street#Northriding#5#2#1000000#4
+73#Hodor Road#Northriding#4#4#1200000#5
+1#Long Street#Northriding#3#2#560000#6 
+2#Short Street#Northriding#2#2#450000#7
+7#Midas Street#Northriding#1#2#790000#8
+8#Gupta Road#Northriding#2#2#890000#9 
+5#3rd Road#Northwold#3#1#1000000#10
+38#Iris Crescent#Northwold#4#1#2000000#11
+5#Fat Avenue#Northwold#5#3#3000000#12
+13#Thin Avenue#Northwold#6#2#4000000#13 
+64#Cook Street#Northwold#7#4#5000000#14
+4#Adar Road#Northwold#8#6#670000000#15
+5#Mickey Street#Northwold#7#3#2500000#16
+76#Boon Road#Northwold#6#4#3200000#17
+8#Jacaranda Avenue#Olivedale#5#2#110000#18
+13#Amsterdam Drive#Olivedale#4#1#100000#19
+1#Roosevelt Road#Olivedale#3#3#1000000#20 
+6#Denis Road#Olivedale#2#1#1000000#21
+98#Goolash Street#Olivedale#1#100000#22
+90#China Street#Olivedale#2#1#430000#23
+6#Stompneus#Street#Olivedale#3#2#2300000#24
+81#Vorna Road#Olivedale#4#2#1500000#25
+18#Cedar Street#Randpark Ridge#5#2#540000#26
+27#Cycad Street#Randpark Ridge#6#3#230000#27
+7#Xiao-Xiao Road#Randpark Ridge#7#2#3400000#28
+69#Copulat Road#Randpark Ridge#8#3#2100000#29
+45#Avamys Street#Randpark Ridge#7#5#4000000#30 
+3#Drobbel Road#Randpark Ridge#6#4#14000000#1  
+8#Woods Street#Randpark Ridge#5#3#5000000#2
+57#Nobile Road#Randpark Ridge#4#2#1000000#3
+7#Gemsbok Avenue#Robin Hills#3#2#1000000#4
+34#Winston Avenue#Robin Hills#2#1#2300000#5
+666#Beast Street#Robin Hills#1#1#4500000#6
+91#Lord Avenue#Robin Hills#2#1#450000#7
+50#Vorna Street#Robin Hills#3#2#700000#8 
+30#Docile Road#Robin Hills#4#3#600000#9
+70#Late Street#Robin Hills#5#4#500000#10
+21#Marlin Street#Robin Hills#6#2#2000000#11
+64#Deneys Road#Roosevelt Park#7#4#3000000#12
+65#Mendelsson Avenue#Roosevelt Park#8#5#4000000#13
+5#Morgan Street#Roosevelt Park#7#3#5000000#14
+34#Spy Street#Roosevelt Park#6#2#2700000#15
+83#Dog Street#Roosevelt Park#5#2#200000#16 
+2#Black Street#Roosevelt Park#4#2#190000#17
+56#Lester Street#Roosevelt Park#3#1#180000#18
+7#Flash Street#Roosevelt Park#2#1#321000#19
+9#Charter Road#Windsor East#1#1#670000#20
+56#Kings Avenue#Windsor East#2#1#450000#21
+39#Princess Street#Windsor East#3#1#6000000#22 
+52#Queens Street#Windsor East#4#2#5000000#23
+62#Beef Street#Windsor East#5#3#4000000#24
+49#Squire Road#Windsor East#6#4#3000000#25
+87#Lord Avenue#Windsor East#7#5#2000000#26
+38#8th Road#Windsor East#8#2#1000000#27
+ 
